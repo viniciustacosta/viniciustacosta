@@ -1,8 +1,17 @@
 <div align="center">
   <a href="https://github.com/viniciustacosta">
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=viniciustacosta&show_icons=true&theme=aura&include_all_commits=true&count_private=true)
+# Esse código não está capturando os commits dos meus projetos privados.
 
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciustacosta&layout=compact&langs_count=9&theme=aura)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciustacosta&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/> [[3](https://github.com/anuraghazra/github-readme-stats)]
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciustacosta&layout=compact&langs_count=9&theme=aura"/>
+
+## 🗒️ Resposta
+O código não está exibindo os commits de projetos privados devido a uma configuração. Para incluir estatísticas de repositórios privados, é necessário definir `count_private=true` no parâmetro da API. 
+
+## 🌐 Fontes
+1. [github.com - anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 </div>
